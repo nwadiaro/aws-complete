@@ -1,0 +1,4 @@
+.terraform/
+ kenneth_key.pem
+ kenneth_key.pem:Zone.Identifier
+ terraform.tfstate.backup
